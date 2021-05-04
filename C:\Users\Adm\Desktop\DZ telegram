@@ -1,0 +1,45 @@
+<!--1 iz 17-->
+<img src="photo.jpg" alt="Image example" width="200" height="150" />
+
+<!--2 iz 17-->
+<ul>
+    <li>HTML</li>
+    <li>CSS </li>
+    <li>JavaScript</li>
+</ul>
+
+<!--4 iz 17-->
+<div>
+    <button type="button" class="button">inline</button>
+    <button type="button" class="button">block</button>
+    <button type="button" class="button">inline-block</button>
+</div>
+<div>
+    <button type="button" class="button">HTML</button>
+    <button type="button" class="button">CSS</button>
+    <button type="button" class="button">JavaScript</button>
+</div>
+
+<!--5 iz 17-->
+<div class="buttons">
+    <button type="button" class="button">inline</button>
+    <button type="button" class="button">block</button>
+    <button type="button" class="button">inline-block</button>
+</div>
+<div class="buttons">
+    <button type="button" class="button">HTML</button>
+    <button type="button" class="button">CSS</button>
+    <button type="button" class="button">JavaScript</button>
+</div>
+
+<!--6 iz 17-->
+<div class="box">
+    <a href="#" class="link-inline"> <span>Text</span> </a>
+    without line break
+</div>
+<div class="box">
+    <a href="#" class="link-block">
+        <p>Text</p>
+    </a>
+    with line break
+</div>
